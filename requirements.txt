@@ -1,0 +1,8 @@
+torch
+transformers
+diffusers
+accelerate
+streamlit
+datasets
+Pillow
+torchvision
